@@ -1,5 +1,4 @@
 
-<h1 align="center"><b>Hi , I'm Alvaro Amestoy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><br>
 <img src="https://media.licdn.com/dms/image/D4D16AQGnkyJKj6v-Xg/profile-displaybackgroundimage-shrink_350_1400/0/1717459500305?e=1723075200&v=beta&t=cztJNhJaIMPujqzqDfRkw3nYt_MQJHOP1UcxemBSBd8">
 <br>
 
